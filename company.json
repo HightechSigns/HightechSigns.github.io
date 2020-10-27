@@ -1,0 +1,161 @@
+{
+    "companies": [
+        {
+            "name": "Primary Childrens Hospital",
+            "_id": "abcdef123",
+            "standards": [
+                {
+                    "standardName": "Room Name ID Plaque",
+                    "standard_ID": "pmc1",
+                    "attributes": {
+                        "thumbnailImage": "https://i.ibb.co/C6m6vmT/room-IDThumbnail.png",
+                        "blankCanvasImage": "https://i.ibb.co/SJXf7pk/room-IDBlank-Canvas.png",
+                        "optionList": {
+                            "title": "Choose desired Animal Image",
+                            "Options":[
+                                {
+                                    "name": "Bumble Bee",
+                                    "optionImage": "https://i.ibb.co/vZ5ymJB/bee-min.png"
+                                },
+                                {
+                                    "name": "Bat",
+                                    "optionImage": "https://i.ibb.co/9pM76FR/bat-min.png"
+                                }
+                            ]
+                        },
+                        "styles":{
+                            "width":"",
+                            "height":"",
+                            "marginTop":"",
+                            "marginLeft":""
+                        },
+                        "textLines": {
+                            "lineOne": {
+                                "className":"L1",
+                                "fontFamily": "PMC-standard",
+                                "fontSize": "100px",
+                                "color": "black",
+                                "marginTop": "100px",
+                                "marginLeft": "50px",
+                                "width": "425px",
+                                "textAlign": "justify"
+                            },
+                            "lineTwo": {
+                                "className":"L2",
+                                "fontFamily": "PMC-secondary",
+                                "fontSize": "100px",
+                                "color": "black",
+                                "marginTop": "100px",
+                                "marginLeft": "50px",
+                                "width": "425px",
+                                "textAlign": "justify"
+                            }
+                        },
+                        "textCondition":false,
+                        "braille":false
+                    },
+                    "price": 30.45,
+                    "description": "This sign is made up of 1/4\" Acrylic. Compiled in 3 layers backer, Face, and the silver strip that goes across. this sign comes with 3M VHB mounting adheasive on the back for quick instalation.",
+                    "weight": 2.5,
+                    "subCategory": "id",
+                    "mainCategory": "id"
+                },
+                {
+                    "standardName": "Standard Flag sign",
+                    "standard_ID": "pmc2",
+                    "attributes": {
+                        "thumbnailImage": "https://i.ibb.co/C6m6vmT/room-IDThumbnail.png",
+                        "blankCanvasImage": "https://i.ibb.co/SJXf7pk/room-IDBlank-Canvas.png",
+                        "optionList": {
+                            "title": "Choose Desired Animal Image",
+                            "Options":[
+                                {
+                                    "name": "butterfly",
+                                    "optionImage": "https://i.ibb.co/QDVJVpq/Asset-1-72x.png"
+                                },
+                                {
+                                    "name": "butterfly",
+                                    "optionImage": "https://i.ibb.co/RYTKcPp/Asset-2-72x.png"
+                                }
+                            ]
+                        },
+                        "styles":{
+                            "width":"",
+                            "height":"",
+                            "marginTop":"",
+                            "marginLeft":""
+                        },
+                        "textLines": {
+                            "lineOne": {
+                                "className":"L1",
+                                "fontFamily": "PMC-standard, sans-serif",
+                                "fontSize": "100px",
+                                "color": "black",
+                                "marginTop": "100px",
+                                "marginLeft": "50px",
+                                "width": "425px",
+                                "textAlign": "justify"
+                            }
+                        },
+                        "textCondition":false,
+                        "braille":false
+                    },
+                    "price": 30.45,
+                    "description": " loerm ipsom loerm ipsom loerm ipsom loerm ipsom loerm ipsom loerm ipsom.",
+                    "weight": 2.5,
+                    "subCategory": "id",
+                    "mainCategory": "id"
+                }
+            ]
+        },
+        {
+            "name": "Intermountain Hospital",
+            "_id": "1234abcd",
+            "standards": [
+                {
+                    "standardName": "Room Name ID Plaque",
+                    "standard_ID": "ihc1",
+                    "attributes": {
+                        "thumbnailImage": "https://i.ibb.co/C6m6vmT/room-IDThumbnail.png",
+                        "blankCanvasImage": "https://i.ibb.co/SJXf7pk/room-IDBlank-Canvas.png",
+                        "optionList": {
+                            "title": "",
+                            "Options":[
+                                {
+                                    "name": "",
+                                    "optionImage": ""
+                                }
+                            ]
+                        },
+                        "styles":{
+                            "width":"",
+                            "height":"",
+                            "marginTop":"",
+                            "marginLeft":""
+                        },
+                        "textLines": {
+                            "lineOne": {
+                                "className":"L1",
+                                "fontFamily": "IHC-Bold",
+                                "fontSize": "100px",
+                                "color": "black",
+                                "marginTop": "100px",
+                                "marginLeft": "50px",
+                                "width": "width:425px",
+                                "textAlign": "textAlign: justify"
+                            }
+                           
+                        },
+                        "textCondition":true,
+                        "braille":true
+                    },
+                    "price": 30.45,
+                    "description": " loerm ipsom loerm ipsom loerm ipsom loerm ipsom loerm ipsom loerm ipsom.",
+                    "weight": 2.5,
+                    "subCategory": "id",
+                    "mainCategory": "id"
+                }
+            ]
+        }
+    ]
+}
