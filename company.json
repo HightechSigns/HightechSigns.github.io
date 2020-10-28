@@ -9,10 +9,11 @@
                     "standard_ID": "pmc1",
                     "attributes": {
                         "thumbnailImage": "https://i.ibb.co/C6m6vmT/room-IDThumbnail.png",
-                        "blankCanvasImage": "https://i.ibb.co/SJXf7pk/room-IDBlank-Canvas.png",
+                        "productWidth": 9,
+                        "productHeight": 6,
                         "optionList": {
                             "title": "Choose desired Animal Image",
-                            "Options":[
+                            "Options": [
                                 {
                                     "name": "Bumble Bee",
                                     "optionImage": "https://i.ibb.co/vZ5ymJB/bee-min.png"
@@ -23,25 +24,16 @@
                                 }
                             ]
                         },
-                        "styles":{
-                            "width":"",
-                            "height":"",
-                            "marginTop":"",
-                            "marginLeft":""
+                        "styles": {
+                            "width": "",
+                            "height": "",
+                            "marginTop": "",
+                            "marginLeft": ""
                         },
-                        "textLines": {
-                            "lineOne": {
-                                "className":"L1",
-                                "fontFamily": "PMC-standard",
-                                "fontSize": "100px",
-                                "color": "black",
-                                "marginTop": "100px",
-                                "marginLeft": "50px",
-                                "width": "425px",
-                                "textAlign": "justify"
-                            },
-                            "lineTwo": {
-                                "className":"L2",
+                        "textLines": [
+                            {
+                                "Title": "Line One",
+                                "className": "L1",
                                 "fontFamily": "PMC-secondary",
                                 "fontSize": "100px",
                                 "color": "black",
@@ -49,10 +41,21 @@
                                 "marginLeft": "50px",
                                 "width": "425px",
                                 "textAlign": "justify"
+                            },
+                            {
+                                "Title": "Line Two",
+                                "className": "L1",
+                                "fontFamily": "PMC-standard",
+                                "fontSize": "100px",
+                                "color": "black",
+                                "marginTop": "100px",
+                                "marginLeft": "50px",
+                                "width": "425px",
+                                "textAlign": "justify"
                             }
-                        },
-                        "textCondition":false,
-                        "braille":false
+                        ],
+                        "textCondition": false,
+                        "braille": false
                     },
                     "price": 30.45,
                     "description": "This sign is made up of 1/4\" Acrylic. Compiled in 3 layers backer, Face, and the silver strip that goes across. this sign comes with 3M VHB mounting adheasive on the back for quick instalation.",
@@ -65,10 +68,11 @@
                     "standard_ID": "pmc2",
                     "attributes": {
                         "thumbnailImage": "https://i.ibb.co/Y2nZQ1t/flagthumbnail-min.png",
-                        "blankCanvasImage": "https://i.ibb.co/Y2nZQ1t/flagthumbnail-min.png",
+                        "productWidth": 20,
+                        "productHeight": 10,
                         "optionList": {
                             "title": "Choose Desired Animal Image",
-                            "Options":[
+                            "Options": [
                                 {
                                     "name": "Bumbble Bee",
                                     "optionImage": "https://i.ibb.co/QDVJVpq/Asset-1-72x.png"
@@ -83,16 +87,28 @@
                                 }
                             ]
                         },
-                        "styles":{
-                            "width":"",
-                            "height":"",
-                            "marginTop":"",
-                            "marginLeft":""
+                        "styles": {
+                            "width": "",
+                            "height": "",
+                            "marginTop": "",
+                            "marginLeft": ""
                         },
-                        "textLines": {
-                            "lineOne": {
-                                "className":"L1",
-                                "fontFamily": "PMC-standard, sans-serif",
+                        "textLines": [
+                            {
+                                "Title": "Line One",
+                                "className": "L1",
+                                "fontFamily": "PMC-secondary",
+                                "fontSize": "100px",
+                                "color": "black",
+                                "marginTop": "100px",
+                                "marginLeft": "50px",
+                                "width": "425px",
+                                "textAlign": "justify"
+                            },
+                            {
+                                "Title": "Line Two",
+                                "className": "L1",
+                                "fontFamily": "PMC-standard",
                                 "fontSize": "100px",
                                 "color": "black",
                                 "marginTop": "100px",
@@ -100,9 +116,9 @@
                                 "width": "425px",
                                 "textAlign": "justify"
                             }
-                        },
-                        "textCondition":false,
-                        "braille":false
+                        ],
+                        "textCondition": false,
+                        "braille": false
                     },
                     "price": 30.45,
                     "description": "This Flag sign is made up of 1/8\" NG Clear acrylic that has 2nd surface printed graphics. This sign is designed to be mounted on the ceiling with provided mounting brakets and hardware. The size of the sign is 8.5\" x 15\"",
@@ -121,25 +137,27 @@
                     "standard_ID": "ihc1",
                     "attributes": {
                         "thumbnailImage": "https://i.ibb.co/C6m6vmT/room-IDThumbnail.png",
-                        "blankCanvasImage": "https://i.ibb.co/SJXf7pk/room-IDBlank-Canvas.png",
+                        "productWidth": 9,
+                        "productHeight": 6,
                         "optionList": {
                             "title": "",
-                            "Options":[
+                            "Options": [
                                 {
                                     "name": "",
                                     "optionImage": ""
                                 }
                             ]
                         },
-                        "styles":{
-                            "width":"",
-                            "height":"",
-                            "marginTop":"",
-                            "marginLeft":""
+                        "styles": {
+                            "width": "",
+                            "height": "",
+                            "marginTop": "",
+                            "marginLeft": ""
                         },
-                        "textLines": {
-                            "lineOne": {
-                                "className":"L1",
+                        "textLines": [
+                            {
+                                "Title": "Line One",
+                                "className": "L1",
                                 "fontFamily": "IHC-Bold",
                                 "fontSize": "100px",
                                 "color": "black",
@@ -148,10 +166,9 @@
                                 "width": "width:425px",
                                 "textAlign": "textAlign: justify"
                             }
-                           
-                        },
-                        "textCondition":true,
-                        "braille":true
+                        ],
+                        "textCondition": true,
+                        "braille": true
                     },
                     "price": 30.45,
                     "description": " loerm ipsom loerm ipsom loerm ipsom loerm ipsom loerm ipsom loerm ipsom.",
