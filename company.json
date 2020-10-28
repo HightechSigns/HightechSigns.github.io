@@ -45,7 +45,7 @@
                             },
                             {
                                 "Title": "Line Two",
-                                "className": "L1",
+                                "className": "L2",
                                 "fontFamily": "PMC-standard",
                                 "fontSize": "100px",
                                 "color": "black",
@@ -109,7 +109,7 @@
                             },
                             {
                                 "Title": "Line Two",
-                                "className": "L1",
+                                "className": "L2",
                                 "fontFamily": "PMC-standard",
                                 "fontSize": "100px",
                                 "color": "black",
