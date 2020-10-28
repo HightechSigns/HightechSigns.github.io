@@ -64,18 +64,22 @@
                     "standardName": "Standard Flag sign",
                     "standard_ID": "pmc2",
                     "attributes": {
-                        "thumbnailImage": "https://i.ibb.co/C6m6vmT/room-IDThumbnail.png",
-                        "blankCanvasImage": "https://i.ibb.co/SJXf7pk/room-IDBlank-Canvas.png",
+                        "thumbnailImage": "https://i.ibb.co/Y2nZQ1t/flagthumbnail-min.png",
+                        "blankCanvasImage": "https://i.ibb.co/Y2nZQ1t/flagthumbnail-min.png",
                         "optionList": {
                             "title": "Choose Desired Animal Image",
                             "Options":[
                                 {
-                                    "name": "butterfly",
+                                    "name": "Bumbble Bee",
                                     "optionImage": "https://i.ibb.co/QDVJVpq/Asset-1-72x.png"
                                 },
                                 {
-                                    "name": "butterfly",
+                                    "name": "Frog",
                                     "optionImage": "https://i.ibb.co/RYTKcPp/Asset-2-72x.png"
+                                },
+                                {
+                                    "name": "Bear",
+                                    "optionImage": "https://i.ibb.co/pW14fgb/flag-Blank-Canvas-min.png"
                                 }
                             ]
                         },
@@ -101,7 +105,7 @@
                         "braille":false
                     },
                     "price": 30.45,
-                    "description": " loerm ipsom loerm ipsom loerm ipsom loerm ipsom loerm ipsom loerm ipsom.",
+                    "description": "This Flag sign is made up of 1/8\" NG Clear acrylic that has 2nd surface printed graphics. This sign is designed to be mounted on the ceiling with provided mounting brakets and hardware. The size of the sign is 8.5\" x 15\"",
                     "weight": 2.5,
                     "subCategory": "id",
                     "mainCategory": "id"
