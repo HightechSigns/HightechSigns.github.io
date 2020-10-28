@@ -9,6 +9,7 @@
                     "standard_ID": "pmc1",
                     "attributes": {
                         "thumbnailImage": "https://i.ibb.co/C6m6vmT/room-IDThumbnail.png",
+                        "defaultImage": "https://i.ibb.co/vZ5ymJB/bee-min.png",
                         "productWidth": 9,
                         "productHeight": 6,
                         "optionList": {
@@ -68,6 +69,7 @@
                     "standard_ID": "pmc2",
                     "attributes": {
                         "thumbnailImage": "https://i.ibb.co/Y2nZQ1t/flagthumbnail-min.png",
+                        "defaultImage": "https://i.ibb.co/pW14fgb/flag-Blank-Canvas-min.png",
                         "productWidth": 20,
                         "productHeight": 10,
                         "optionList": {
@@ -137,6 +139,7 @@
                     "standard_ID": "ihc1",
                     "attributes": {
                         "thumbnailImage": "https://i.ibb.co/C6m6vmT/room-IDThumbnail.png",
+                        "defaultImage": "https://i.ibb.co/82CQ63V/face-4-min.png",
                         "productWidth": 9,
                         "productHeight": 6,
                         "optionList": {
