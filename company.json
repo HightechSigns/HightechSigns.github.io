@@ -36,23 +36,29 @@
                                 "Title": "Line One",
                                 "className": "L1",
                                 "fontFamily": "PMC-secondary",
-                                "fontSize": "100px",
+                                "fontSize": "20px",
                                 "color": "black",
-                                "marginTop": "100px",
-                                "marginLeft": "50px",
-                                "width": "425px",
-                                "textAlign": "justify"
+                                "marginTop": "20px",
+                                "marginLeft": "60px",
+                                "marginRight": "0px",
+                                "marginBottom": "0px",
+                                "width": "auto",
+                                "textAlign": "justify",
+                                "zIndex": "1"
                             },
                             {
-                                "Title": "Line Two",
-                                "className": "L2",
-                                "fontFamily": "PMC-standard",
-                                "fontSize": "100px",
+                                "Title": "Line One",
+                                "className": "L1",
+                                "fontFamily": "PMC-secondary",
+                                "fontSize": "35px",
                                 "color": "black",
-                                "marginTop": "100px",
+                                "marginTop": "45px",
                                 "marginLeft": "50px",
-                                "width": "425px",
-                                "textAlign": "justify"
+                                "marginRight": "0px",
+                                "marginBottom": "0px",
+                                "width": "auto",
+                                "textAlign": "justify",
+                                "zIndex": "2"
                             }
                         ],
                         "textCondition": false,
@@ -100,12 +106,15 @@
                                 "Title": "Line One",
                                 "className": "L1",
                                 "fontFamily": "PMC-secondary",
-                                "fontSize": "15px",
+                                "fontSize": "20px",
                                 "color": "black",
                                 "marginTop": "15px",
-                                "marginLeft": "390px",
+                                "marginLeft": "50px",
+                                "marginRight": "0px",
+                                "marginBottom": "0px",
                                 "width": "auto",
-                                "textAlign": "justify"
+                                "textAlign": "justify",
+                                "zIndex": "1"
                             },
                             {
                                 "Title": "Line Two",
@@ -113,10 +122,13 @@
                                 "fontFamily": "PMC-standard",
                                 "fontSize": "70px",
                                 "color": "black",
-                                "marginTop": "0",
-                                "marginLeft": "0",
+                                "marginTop": "10px",
+                                "marginLeft": "0px",
+                                "marginRight": "0px",
+                                "marginBottom": "0px",
                                 "width": "500px",
-                                "textAlign": "right"
+                                "textAlign": "right",
+                                "zIndex": "2"
                             }
                         ],
                         "textCondition": false,
@@ -166,8 +178,11 @@
                                 "color": "black",
                                 "marginTop": "100px",
                                 "marginLeft": "50px",
+                                "marginRight": "0px",
+                                "marginBottom": "0px",
                                 "width": "width:425px",
-                                "textAlign": "textAlign: justify"
+                                "textAlign": "textAlign: justify",
+                                "zIndex": "1"
                             }
                         ],
                         "textCondition": true,
