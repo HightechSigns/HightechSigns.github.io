@@ -50,7 +50,7 @@
                             {
                                 "Title": "Line Two",
                                 "className": "L2",
-                                "fontFamily": "PMC-secondary",
+                                "fontFamily": "PMC-standard",
                                 "fontSize": "35px",
                                 "color": "black",
                                 "marginTop": "45px",
