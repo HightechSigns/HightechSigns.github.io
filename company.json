@@ -100,23 +100,23 @@
                                 "Title": "Line One",
                                 "className": "L1",
                                 "fontFamily": "PMC-secondary",
-                                "fontSize": "100px",
+                                "fontSize": "15px",
                                 "color": "black",
-                                "marginTop": "100px",
-                                "marginLeft": "50px",
-                                "width": "425px",
+                                "marginTop": "15px",
+                                "marginLeft": "390px",
+                                "width": "auto",
                                 "textAlign": "justify"
                             },
                             {
                                 "Title": "Line Two",
                                 "className": "L2",
                                 "fontFamily": "PMC-standard",
-                                "fontSize": "100px",
+                                "fontSize": "70px",
                                 "color": "black",
-                                "marginTop": "100px",
-                                "marginLeft": "50px",
-                                "width": "425px",
-                                "textAlign": "justify"
+                                "marginTop": "23px",
+                                "marginLeft": "0",
+                                "width": "500px",
+                                "textAlign": "right"
                             }
                         ],
                         "textCondition": false,
