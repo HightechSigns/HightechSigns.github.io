@@ -42,6 +42,7 @@
                                 "marginLeft": "60px",
                                 "marginRight": "0px",
                                 "marginBottom": "0px",
+                                "padding": "0px 10px 0px 0px",
                                 "width": "auto",
                                 "textAlign": "justify",
                                 "zIndex": "1"
@@ -56,6 +57,7 @@
                                 "marginLeft": "50px",
                                 "marginRight": "0px",
                                 "marginBottom": "0px",
+                                "padding": "0px 10px 0px 0px",
                                 "width": "auto",
                                 "textAlign": "justify",
                                 "zIndex": "2"
@@ -109,9 +111,10 @@
                                 "fontSize": "20px",
                                 "color": "black",
                                 "marginTop": "15px",
-                                "marginLeft": "50px",
+                                "marginLeft": "90px",
                                 "marginRight": "0px",
                                 "marginBottom": "0px",
+                                "padding": "0px 10px 0px 0px",
                                 "width": "auto",
                                 "textAlign": "justify",
                                 "zIndex": "1"
@@ -124,8 +127,9 @@
                                 "color": "black",
                                 "marginTop": "10px",
                                 "marginLeft": "0px",
-                                "marginRight": "5px",
+                                "marginRight": "0px",
                                 "marginBottom": "0px",
+                                "padding": "0px 10px 0px 0px",
                                 "width": "500px",
                                 "textAlign": "right",
                                 "zIndex": "2"
@@ -180,6 +184,7 @@
                                 "marginLeft": "50px",
                                 "marginRight": "0px",
                                 "marginBottom": "0px",
+                                "padding": "0px 10px 0px 0px",
                                 "width": "width:425px",
                                 "textAlign": "textAlign: justify",
                                 "zIndex": "1"
