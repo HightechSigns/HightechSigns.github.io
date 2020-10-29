@@ -113,7 +113,7 @@
                                 "fontFamily": "PMC-standard",
                                 "fontSize": "70px",
                                 "color": "black",
-                                "marginTop": "10px",
+                                "marginTop": "0",
                                 "marginLeft": "0",
                                 "width": "500px",
                                 "textAlign": "right"
