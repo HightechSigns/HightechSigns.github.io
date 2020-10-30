@@ -9,7 +9,7 @@
                     "standard_ID": "pmc1",
                     "attributes": {
                         "thumbnailImage": "https://i.ibb.co/C6m6vmT/room-IDThumbnail.png",
-                        "defaultImage": "https://i.ibb.co/vZ5ymJB/bee-min.png",
+                        "defaultImage": "https://i.ibb.co/C6m6vmT/room-IDThumbnail.png",
                         "productWidth": 9,
                         "productHeight": 6,
                         "optionList": {
@@ -38,8 +38,8 @@
                                 "fontFamily": "PMC-calibri",
                                 "fontSize": "32px",
                                 "color": "black",
-                                "marginTop": "34px",
-                                "marginLeft": "26px",
+                                "marginTop": "34pt",
+                                "marginLeft": "26pt",
                                 "marginRight": "0px",
                                 "marginBottom": "0px",
                                 "padding": "0px 10px 0px 0px",
@@ -53,8 +53,8 @@
                                 "fontFamily": "PMC-eureka",
                                 "fontSize": "60px",
                                 "color": "black",
-                                "marginTop": "187px",
-                                "marginLeft": "28px",
+                                "marginTop": "187pt",
+                                "marginLeft": "28pt",
                                 "marginRight": "0px",
                                 "marginBottom": "0px",
                                 "padding": "0px 0px 0px 0px",
@@ -77,7 +77,7 @@
                     "standard_ID": "pmc2",
                     "attributes": {
                         "thumbnailImage": "https://i.ibb.co/VDDnqC1/Asset-3-72x-min.png",
-                        "defaultImage": "https://i.ibb.co/QDVJVpq/Asset-1-72x.png",
+                        "defaultImage": "https://i.ibb.co/VDDnqC1/Asset-3-72x-min.png",
                         "productWidth": 20,
                         "productHeight": 10,
                         "optionList": {
