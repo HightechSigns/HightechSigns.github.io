@@ -5,7 +5,7 @@
             "_id": "abcdef123",
             "standards": [
                 {
-                    "standardName": "Room Name ID Plaque",
+                    "standardName": "Room Name ID Plaque - Sector A",
                     "standard_ID": "pmc1",
                     "attributes": {
                         "thumbnailImage": "https://i.ibb.co/C6m6vmT/room-IDThumbnail.png",
@@ -13,7 +13,7 @@
                         "productWidth": 9,
                         "productHeight": 6,
                         "optionList": {
-                            "title": "Choose desired Animal Image",
+                            "title": "Sector A Icon Options",
                             "Options": [
                                 {
                                     "name": "Bumble Bee",
