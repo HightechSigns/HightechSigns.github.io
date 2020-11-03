@@ -25,18 +25,14 @@
                                 }
                             ]
                         },
-                        "styles": {
-                            "width": "",
-                            "height": "",
-                            "marginTop": "",
-                            "marginLeft": ""
-                        },
                         "textLines": [
                             {
                                 "Title": "Line One",
                                 "className": "L1",
-                                "fontFamily": "PMC-calibri",
+                                "fontFamily": "PC-Calibri",
                                 "fontSize": "32px",
+                                "textTransform": "none",
+                                "transform": "rotate(0deg)",
                                 "color": "black",
                                 "marginTop": "34pt",
                                 "marginLeft": "26pt",
@@ -52,6 +48,8 @@
                                 "className": "L2",
                                 "fontFamily": "PMC-eureka",
                                 "fontSize": "60px",
+                                "textTransform": "none",
+                                "transform": "rotate(0deg)",
                                 "color": "black",
                                 "marginTop": "187pt",
                                 "marginLeft": "28pt",
@@ -97,18 +95,14 @@
                                 }
                             ]
                         },
-                        "styles": {
-                            "width": "",
-                            "height": "",
-                            "marginTop": "",
-                            "marginLeft": ""
-                        },
                         "textLines": [
                             {
                                 "Title": "Line One",
                                 "className": "L1",
                                 "fontFamily": "PMC-Frutiger-47-Light-Condensed",
                                 "fontSize": "13px",
+                                "textTransform": "none",
+                                "transform": "rotate(0deg)",
                                 "color": "black",
                                 "marginTop": "14px",
                                 "marginLeft": "106px",
@@ -124,6 +118,8 @@
                                 "className": "L2",
                                 "fontFamily": "PMC-Velino-Sans-Condensed-Book",
                                 "fontSize": "64px",
+                                "textTransform": "none",
+                                "transform": "rotate(0deg)",
                                 "color": "black",
                                 "marginTop": "21px",
                                 "marginLeft": "0px",
@@ -167,18 +163,14 @@
                                 }
                             ]
                         },
-                        "styles": {
-                            "width": "",
-                            "height": "",
-                            "marginTop": "",
-                            "marginLeft": ""
-                        },
                         "textLines": [
                             {
                                 "Title": "Line One",
                                 "className": "L1",
                                 "fontFamily": "IHC-Bold",
                                 "fontSize": "100px",
+                                "textTransform": "none",
+                                "transform": "rotate(0deg)",
                                 "color": "black",
                                 "marginTop": "100px",
                                 "marginLeft": "50px",
